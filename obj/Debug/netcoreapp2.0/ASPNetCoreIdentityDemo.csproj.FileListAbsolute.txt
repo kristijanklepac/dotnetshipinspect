@@ -1,0 +1,10 @@
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\bin\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.deps.json
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\bin\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.runtimeconfig.json
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\bin\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.runtimeconfig.dev.json
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\bin\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.dll
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\bin\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.pdb
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\obj\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.csproj.CoreCompileInputs.cache
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\obj\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.AssemblyInfoInputs.cache
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\obj\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.AssemblyInfo.cs
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\obj\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.dll
+D:\visualstudiofolders\Demo 3\ASPNetCoreIdentityDemo\ASPNetCoreIdentityDemo\obj\Debug\netcoreapp2.0\ASPNetCoreIdentityDemo.pdb
