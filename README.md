@@ -4,7 +4,7 @@ Starting point for custom project for Logistic and Ship Inspection company from 
 
 Backend part is build with .NET.
 
-https://www.parismou.org/
+More info about Paris MOU at -> https://www.parismou.org/
 
 App is created for inspections in Paris MOU region and Tokyo MOU region. 
 
